@@ -1,0 +1,16 @@
+#logo-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: fit-content;
+    color: #7c339b;
+    text-decoration: none;
+    padding: 0.5rem;
+
+    #logo-container {
+      width: 32px;
+      display: flex;
+      flex-direction: row;
+      padding: 0.5rem;
+    }
+  }
